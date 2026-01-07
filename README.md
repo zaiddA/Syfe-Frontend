@@ -1,5 +1,7 @@
 # Goal-Based Savings Planner
 
+Live Link -  https://syfe-frontend.vercel.app/
+
 Lightweight client side savings planner that supports multi currency goals, live FX refresh, and contribution tracking.
 
 ## Setup
