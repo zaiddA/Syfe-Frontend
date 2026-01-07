@@ -1,6 +1,6 @@
 # Goal-Based Savings Planner
 
-Lightweight client-side savings planner that supports multi-currency goals, live FX refresh, and contribution tracking.
+Lightweight client side savings planner that supports multi currency goals, live FX refresh, and contribution tracking.
 
 ## Setup
 
@@ -76,7 +76,4 @@ Screenshot 2: Goal card + progress
 - When `VITE_USE_MOCK_FX=false` (or missing), the app uses the live exchange-rate API via `VITE_EXCHANGE_API_KEY`.
 - You can also point `VITE_EXCHANGE_API_BASE` to your own endpoint to mock or proxy the data.
 
-## Demo
-
-- Live demo: (add your Vercel/Netlify link)
-- Video walkthrough: (add your link if needed)
+Thanks - Zaid
